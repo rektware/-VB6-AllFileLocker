@@ -1,4 +1,4 @@
--VB6-AllFileLocker
+-VB6-AllFileLocker (15 Jul 2009)
 ==================
 
 See my article about this project: http://dinhquangtrung.net/blog/some-softwares-i-made
@@ -7,8 +7,6 @@ Description
 -----------
 
 Set password to any file!
-
-Created: 15 July 2009
 
 Images:
 -----------
