@@ -1,0 +1,6 @@
+[History]
+1=#P0#=mb	#P1#=Timer1_Timer	#P2#=UnLockFile/frmUnlock/Timer1_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090625205540	#P7#=0	#P8#=3	.
+2=#P0#=mb	#P1#=Form_Load	#P2#=UnLockFile/frmUnlock/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090828161025	#P7#=0	#P8#=4	.
+3=#P0#=mb	#P1#=YesBorder	#P2#=UnLockFile/frmUnlock/YesBorder	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090625205251	#P7#=0	#P8#=9	.
+4=#P0#=mb	#P1#=GetFileType	#P2#=UnLockFile/frmUnlock/GetFileType	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090625205245	#P7#=0	#P8#=-6	.
+5=#P0#=mb	#P1#=UnLockFile	#P2#=UnLockFile/frmUnlock/UnLockFile	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090625202404	#P7#=0	#P8#=39	.

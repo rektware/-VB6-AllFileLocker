@@ -1,0 +1,81 @@
+Line 35: Class FVUnicodeControl.FVistaUniTextbox of control txtFile was not a loaded control class.
+Line 58: Class FVUnicodeControl.FVistaUniLabel of control lblFileType was not a loaded control class.
+Line 77: Class FVUnicodeControl.FVistaUniLabel of control lblFileSize was not a loaded control class.
+Line 96: Class FVUnicodeControl.FVistaUniLabel of control lblFileName was not a loaded control class.
+Line 115: Class FVUnicodeControl.FVistaUniCheckbox of control lblViewPass was not a loaded control class.
+Line 135: Class FVUnicodeControl.FVistaUniTextbox of control lblEnterPassAgain was not a loaded control class.
+Line 158: Class FVUnicodeControl.FVistaUniTextbox of control lblEnterPass was not a loaded control class.
+Line 181: Class FVUnicodeControl.FVistaUniLabel of control FVistaUniLabel5 was not a loaded control class.
+Line 201: Class FVUnicodeControl.FVistaUniLabel of control FVistaUniLabel4 was not a loaded control class.
+Line 221: Class FVUnicodeControl.FVistaUniLabel of control FVistaUniLabel3 was not a loaded control class.
+Line 240: Class FVUnicodeControl.FVistaUniLabel of control FVistaUniLabel2 was not a loaded control class.
+Line 259: Class FVUnicodeControl.FVistaUniLabel of control FVistaUniLabel1 was not a loaded control class.
+Line 278: Class FVUnicodeControl.FVistaUniButton of control cmdSelectFile was not a loaded control class.
+Line 300: Class FVUnicodeControl.FVistaUniLabel of control lblMain2 was not a loaded control class.
+Line 321: Class FVUnicodeControl.FVistaUniLabel of control lblMain1 was not a loaded control class.
+Line 342: Class FVUnicodeControl.FVistaUniButton of control FVistaUniButton1 was not a loaded control class.
+Line 41: The property name _ExtentX in txtFile is invalid.
+Line 42: The property name _ExtentY in txtFile is invalid.
+Line 53: The property name Text in txtFile is invalid.
+Line 54: The property name Locked in txtFile is invalid.
+Line 56: The property name BorderLine in txtFile is invalid.
+Line 35: Property BorderStyle in txtFile could not be set.
+Line 64: The property name _ExtentX in lblFileType is invalid.
+Line 65: The property name _ExtentY in lblFileType is invalid.
+Line 66: The property name Caption in lblFileType is invalid.
+Line 83: The property name _ExtentX in lblFileSize is invalid.
+Line 84: The property name _ExtentY in lblFileSize is invalid.
+Line 85: The property name Caption in lblFileSize is invalid.
+Line 102: The property name _ExtentX in lblFileName is invalid.
+Line 103: The property name _ExtentY in lblFileName is invalid.
+Line 104: The property name Caption in lblFileName is invalid.
+Line 121: The property name _ExtentX in lblViewPass is invalid.
+Line 122: The property name _ExtentY in lblViewPass is invalid.
+Line 132: The property name Caption in lblViewPass is invalid.
+Line 141: The property name _ExtentX in lblEnterPassAgain is invalid.
+Line 142: The property name _ExtentY in lblEnterPassAgain is invalid.
+Line 153: The property name Text in lblEnterPassAgain is invalid.
+Line 154: The property name PasswordChar in lblEnterPassAgain is invalid.
+Line 156: The property name BorderLine in lblEnterPassAgain is invalid.
+Line 135: Property BorderStyle in lblEnterPassAgain could not be set.
+Line 164: The property name _ExtentX in lblEnterPass is invalid.
+Line 165: The property name _ExtentY in lblEnterPass is invalid.
+Line 176: The property name Text in lblEnterPass is invalid.
+Line 177: The property name PasswordChar in lblEnterPass is invalid.
+Line 179: The property name BorderLine in lblEnterPass is invalid.
+Line 158: Property BorderStyle in lblEnterPass could not be set.
+Line 187: The property name _ExtentX in FVistaUniLabel5 is invalid.
+Line 188: The property name _ExtentY in FVistaUniLabel5 is invalid.
+Line 189: The property name Alignment in FVistaUniLabel5 is invalid.
+Line 190: The property name Caption in FVistaUniLabel5 is invalid.
+Line 207: The property name _ExtentX in FVistaUniLabel4 is invalid.
+Line 208: The property name _ExtentY in FVistaUniLabel4 is invalid.
+Line 209: The property name Alignment in FVistaUniLabel4 is invalid.
+Line 210: The property name Caption in FVistaUniLabel4 is invalid.
+Line 227: The property name _ExtentX in FVistaUniLabel3 is invalid.
+Line 228: The property name _ExtentY in FVistaUniLabel3 is invalid.
+Line 229: The property name Caption in FVistaUniLabel3 is invalid.
+Line 246: The property name _ExtentX in FVistaUniLabel2 is invalid.
+Line 247: The property name _ExtentY in FVistaUniLabel2 is invalid.
+Line 248: The property name Caption in FVistaUniLabel2 is invalid.
+Line 265: The property name _ExtentX in FVistaUniLabel1 is invalid.
+Line 266: The property name _ExtentY in FVistaUniLabel1 is invalid.
+Line 267: The property name Caption in FVistaUniLabel1 is invalid.
+Line 284: The property name _ExtentX in cmdSelectFile is invalid.
+Line 285: The property name _ExtentY in cmdSelectFile is invalid.
+Line 287: The property name ButtonShape in cmdSelectFile is invalid.
+Line 288: The property name ButtonStyle in cmdSelectFile is invalid.
+Line 289: The property name Caption in cmdSelectFile is invalid.
+Line 306: The property name _ExtentX in lblMain2 is invalid.
+Line 307: The property name _ExtentY in lblMain2 is invalid.
+Line 308: The property name Alignment in lblMain2 is invalid.
+Line 309: The property name Caption in lblMain2 is invalid.
+Line 327: The property name _ExtentX in lblMain1 is invalid.
+Line 328: The property name _ExtentY in lblMain1 is invalid.
+Line 329: The property name Alignment in lblMain1 is invalid.
+Line 330: The property name Caption in lblMain1 is invalid.
+Line 348: The property name _ExtentX in FVistaUniButton1 is invalid.
+Line 349: The property name _ExtentY in FVistaUniButton1 is invalid.
+Line 351: The property name ButtonShape in FVistaUniButton1 is invalid.
+Line 352: The property name ButtonStyle in FVistaUniButton1 is invalid.
+Line 353: The property name Caption in FVistaUniButton1 is invalid.
